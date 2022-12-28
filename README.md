@@ -1,2 +1,2 @@
 # SQL-Projects
-Projects I did in Datacamp related to SQL
+A collection of SQL Projects I did in Datacamp.
